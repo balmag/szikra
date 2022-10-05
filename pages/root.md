@@ -1,9 +1,9 @@
 ---
-routable: false
-permissions:
-    inherit: false
-login:
-    visibility_requires_access: true
+routable:
+    - false
+    - false
+permissions: {  }
+login: {  }
 access:
     site.login: true
 ---

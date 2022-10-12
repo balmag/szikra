@@ -1,5 +1,5 @@
 ---
-title: Basics
+title: 'Villanyszerelési alapismeretek'
 taxonomy:
     category: docs
 child_type: docs

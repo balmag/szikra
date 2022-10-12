@@ -12,9 +12,9 @@ taxonomy:
 4. Áram frekvenciájától
 5. Emberi test ellenállásától, amely egyénenként változó
 
->>> Időtartam
-* 1mA érzékelési küszöb
->>>
+!! Időtartam
+!!* 1mA érzékelési küszöb
+
 
 
 

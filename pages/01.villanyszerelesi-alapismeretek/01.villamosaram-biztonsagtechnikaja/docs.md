@@ -12,7 +12,7 @@ taxonomy:
 4. Áram frekvenciájától
 5. Emberi test ellenállásától, amely egyénenként változó
 
-! **Időtartam**
+! **Áramerősség**
 !* 1mA érzékelési küszöb
 !* 10-15mA elengedési küszöb
 !* 20mA felett légzési, szívműködési problémák

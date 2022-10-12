@@ -48,3 +48,10 @@ Valamely testnek, vezetőanyagú tárgynak vagy vezetőnek a földdel való köz
 
 ## Földelővezető kialakítása
 ![foldeles_kialakitasa](foldeles_kialakitasa.png "foldeles_kialakitasa")
+
+## Feszültségmentesítés szabálya, sorrendje
+1. Minden irányból történő kikapcsolás
+2. Visszakapcsolás megakadályozása
+3. Feszültség kémlelés
+4. Kisütés, földelés, rövidrezárás
+5. Tiltótáblák elhelyezése, elhatárolás

@@ -34,3 +34,14 @@ media_order: erintesvedelem.png
 * III. osztály - törpefeszültségű táplálás (max. 50V)
 
 ![erintesvedelem](erintesvedelem.png "erintesvedelem")
+
+## Védőföldelés
+Valamely testnek, vezetőanyagú tárgynak vagy vezetőnek a földdel való közvetlen vagy közvetett összeköttetése.
+**Földelő** a talajjal közvetlenül érintkezésben lévő és azzal villamos összeköttetést létesítő vezetőképes rész vagy vezetőképes részek együttese.
+
+### Földelő típusok
+* rúd vagy csőföldelők
+* szalag vagy huzalföldelők
+* lemezföldelők
+* földbeásott vörösrészsodrony
+* a talajjal közvetlenül érintkező vasbeton szerkezetek

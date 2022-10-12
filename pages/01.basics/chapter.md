@@ -5,8 +5,10 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter 1
+### 1 Fejezet
 
-# Basics
+# Villanyszerelési alapismeretek
 
-Discover the **basic** principles
+* Alapfogalmak
+* Definíciók
+* Kapcsolási rajzok

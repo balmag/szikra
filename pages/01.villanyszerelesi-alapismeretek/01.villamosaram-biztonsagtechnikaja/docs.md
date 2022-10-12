@@ -14,6 +14,7 @@ taxonomy:
 
 >>> Időtartam
 * 1mA érzékelési küszöb
+>>>
 
 
 

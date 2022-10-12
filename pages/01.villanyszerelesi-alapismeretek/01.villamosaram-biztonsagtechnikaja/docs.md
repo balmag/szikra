@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-## Villamos áramütés (függ):
+## Villamos áramütés:
 1. Áram erősségétől
 2. Időtartamtól
 3. Áram útja az emberi testen

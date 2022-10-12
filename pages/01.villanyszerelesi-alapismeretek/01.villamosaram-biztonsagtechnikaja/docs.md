@@ -3,7 +3,7 @@ title: 'Villamos áram biztonságtechnikája'
 taxonomy:
     category:
         - docs
-media_order: erintesvedelem.png
+media_order: 'erintesvedelem.png,foldeles_kialakitasa.png'
 ---
 
 ## Villamos áramütés:
@@ -45,3 +45,6 @@ Valamely testnek, vezetőanyagú tárgynak vagy vezetőnek a földdel való köz
 * lemezföldelők
 * földbeásott vörösrészsodrony
 * a talajjal közvetlenül érintkező vasbeton szerkezetek
+
+## Földelővezető kialakítása
+![foldeles_kialakitasa](foldeles_kialakitasa.png "foldeles_kialakitasa")

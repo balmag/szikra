@@ -12,8 +12,10 @@ taxonomy:
 4. Áram frekvenciájától
 5. Emberi test ellenállásától, amely egyénenként változó
 
->> Időtartam
->> 
+>>> Időtartam
+* 1mA érzékelési küszöb
+
+
 
 Let's face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
 

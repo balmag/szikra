@@ -3,6 +3,7 @@ title: 'Villamos áram biztonságtechnikája'
 taxonomy:
     category:
         - docs
+media_order: erintesvedelem.png
 ---
 
 ## Villamos áramütés:
@@ -25,5 +26,11 @@ taxonomy:
 
 !!!! **Áramütés elleni védelem (Érintésvédelem)** <br/>Villamos berendezések, készülékek és vezetékek üzemszerűen feszültségmentes, de meghibásodás esetén feszültség alá kerülő részeinek érintéséből adódó villamos balesetek megakadályozása
 
+## Érintésvédelmi osztályok
 
+* O. osztály - csak üzemi szigeteléssel rendelkezik, a védelem a környezeten alapul
+* I. osztály - üzemi szigetelésen mellett védőföldelés v. nullázás
+* II. osztály - üzemi szigetelés mellett kettős vagy megerősített szigeteléssel látják el
+* III. osztály - törpefeszültségű táplálás (max. 50V)
 
+![erintesvedelem](erintesvedelem.png "erintesvedelem")

@@ -6,4 +6,4 @@ taxonomy:
         - docs
 ---
 
-Your page content goes here.
+[](1 pólusú kapcsoló)

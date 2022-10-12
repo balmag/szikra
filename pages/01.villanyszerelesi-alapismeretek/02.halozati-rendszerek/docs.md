@@ -4,7 +4,7 @@ date: '2022-10-12 12:22'
 taxonomy:
     category:
         - docs
-media_order: 'tt.png,it.png,tnc.png,tns.png,tncs.png'
+media_order: 'tt.png,it.png,tnc.png,tncs.png,Vonali_fazisfeszultseg.png'
 ---
 
 ![tt](tt.png "tt")
@@ -12,3 +12,5 @@ media_order: 'tt.png,it.png,tnc.png,tns.png,tncs.png'
 ![tnc](tnc.png "tnc")
 ![tns](tns.png "tns")
 ![tncs](tncs.png "tncs")
+
+![Vonali_fazisfeszultseg](Vonali_fazisfeszultseg.png "Vonali_fazisfeszultseg")

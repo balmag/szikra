@@ -1,12 +1,12 @@
 ---
-title: Intermediate
+title: 'Fémipari alapismeretek'
 taxonomy:
     category: docs
 child_type: docs
 ---
 
-### Chapter 2
+### 2 Fejezet
 
-# Intermediate
+# Fémipari alapismeretek
 
-Delve deeper into more **complex** topics
+

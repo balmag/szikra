@@ -9,6 +9,8 @@ taxonomy:
 ## Ellenállás
 Az elektronok áramlását akadályozó hatás.
 
+Jele: **R**
+Mértékegysége: **Ohm** Ω
 
 
 ## Áramerősség

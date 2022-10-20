@@ -6,4 +6,13 @@ taxonomy:
         - docs
 ---
 
-# Alapfogalmak
+## Ellenállás
+Az elektronok áramlását akadályozó hatás.
+
+
+
+## Áramerősség
+A vezető keresztmetszetén időegység alatt átáramló töltésmennyiség.
+
+## Feszültség
+Két pont közötti töltéskülönbség (potenciálkülönbség).

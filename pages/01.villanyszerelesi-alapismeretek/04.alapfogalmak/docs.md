@@ -36,5 +36,6 @@ Ha két mennyiség egyenesen arányos, akkor hányadosuk állandó.
 
 $R = \frac{U}{I}$
 
+$R_{1,2}=\frac{R_1*R_2}{R_1+R_2}\frac{100Ω*100Ω}{100Ω+100Ω}=50Ω$
 
 

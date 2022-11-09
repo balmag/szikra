@@ -6,4 +6,3 @@ taxonomy:
         - docs
 ---
 
-[](1 pólusú kapcsoló)

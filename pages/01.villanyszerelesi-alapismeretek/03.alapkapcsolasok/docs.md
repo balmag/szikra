@@ -6,3 +6,4 @@ taxonomy:
         - docs
 ---
 
+![egypolusu](egypolusu.png "egypolusu")

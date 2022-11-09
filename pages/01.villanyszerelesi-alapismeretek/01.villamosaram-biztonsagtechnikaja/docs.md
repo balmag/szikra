@@ -26,6 +26,15 @@ media_order: 'erintesvedelem.png,foldeles_kialakitasa.png'
 
 !!!! **Áramütés elleni védelem (Érintésvédelem)** <br/>Villamos berendezések, készülékek és vezetékek üzemszerűen feszültségmentes, de meghibásodás esetén feszültség alá kerülő részeinek érintéséből adódó villamos balesetek megakadályozása
 
+## Áramkörből történő mentés lépései
+* Ki kell szabadítani az áramkörből
+* Ha lehetséges kikapcsoljuk az áramkört
+* Ha eszméleténél van -> Nyugalomba helyezni és orvoshoz vinni
+* Ha nincs eszméleténél -> Életfunkciók vizsgálat, légzés, keringés, szájüreg vizsgálata
+* Stabil oldalfekvés
+* Újraélesztés
+* **1000V feszültségig lehet csak menteni!**
+
 ## Érintésvédelmi osztályok
 
 * O. osztály - csak üzemi szigeteléssel rendelkezik, a védelem a környezeten alapul
@@ -48,6 +57,11 @@ Valamely testnek, vezetőanyagú tárgynak vagy vezetőnek a földdel való köz
 
 ## Földelővezető kialakítása
 ![foldeles_kialakitasa](foldeles_kialakitasa.png "foldeles_kialakitasa")
+
+## Védővezető keresztmetszete
+* 16mm2-ig a fázisvezetővel azonos keresztmetszet
+* 16-35mm2 között 16mm2 legyen a védővezető keresztmetszete
+* 35mm2 felett legalább a fázisvezető fele keresztmetszetű legyen
 
 ## Feszültségmentesítés szabálya, sorrendje
 1. Minden irányból történő kikapcsolás

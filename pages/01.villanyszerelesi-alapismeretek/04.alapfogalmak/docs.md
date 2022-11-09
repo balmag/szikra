@@ -36,6 +36,19 @@ Ha két mennyiség egyenesen arányos, akkor hányadosuk állandó.
 
 $R = \frac{U}{I}$
 
-$R_{1,2}=\frac{R_1*R_2}{R_1+R_2}\frac{100Ω*100Ω}{100Ω+100Ω}=50Ω$
+## Megengedett áram
+Az a legnagyobb áram, amely tartós terhelés esetén sem okoz termikus eredetű károsodást a vezeték esetében.
+
+## Névleges áram
+Készüléknél az az legnagyobb áram, amely nem okoz termikus eredetű károsodást.
+
+## Túlterhelés
+Villamos berendezésben tartósan a névleges áramnál nagyobb áram folyik.
+
+## Zárlat
+Az áramkörben a névleges áram értékének többszöröse folyik.
+
+## Zárlati áram
+Pusztító hatású, ha nem gondoskodunk mihamarabb valamilyen túláram védelemről!
 
 

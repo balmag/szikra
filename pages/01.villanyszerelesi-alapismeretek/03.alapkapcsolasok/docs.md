@@ -8,3 +8,7 @@ taxonomy:
 
 ## Egypólusú kapcsolás
 ![egypolusu](egypolusu.png "egypolusu")
+
+## Kétpólusú kapcsolása
+![ketpolusu](ketpolusu.png "ketpolusu")
+
